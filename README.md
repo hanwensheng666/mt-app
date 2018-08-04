@@ -1,4 +1,4 @@
-# my-app
+# mt-app
 
 > A Vue project 
     with VueX  json-server  vue-router 
