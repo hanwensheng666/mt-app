@@ -1,7 +1,7 @@
 # my-app
 
-> A Vue.js project
-
+> A Vue project 
+    with VueX  json-server  vue-router 
 ## Build Setup
 
 ``` bash
